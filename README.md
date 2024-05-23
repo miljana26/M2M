@@ -49,3 +49,13 @@ Dodatne funkcionalnosti mogu biti implementirane po želji.
   - Ne prepoznaje prioritet operacija i računa redom sleva nadesno.
   - Primer: Ako unesete `16sqrt+22-2`, rezultat će biti tačan. Međutim, ako unesete `22-2+16sqrt`, računaće samo koren broja, a ostatak zanemariti.
 
+### Dodatno
+
+#### Semestralni rad o RS485 komunikaciji
+- **Tema**: RS485 komunikacija
+- **Opis**: Ovaj semestralni rad obuhvata teorijski deo vezan za RS485 komunikacioni protokol.
+- **Status**: Gotov
+
+#### Domaći zadaci
+- **Opis**: Pored glavnog projekta, urađeno je nekoliko domaćih zadataka vezanih.
+- **Status**: Gotovi
